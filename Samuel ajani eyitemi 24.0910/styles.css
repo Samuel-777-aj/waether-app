@@ -8,9 +8,9 @@ body {
     margin: 0 auto;
     text-align: center;
     padding: 20px;
-    background-color: rgba(204, 189, 189, 0.515); /* Set the background color to be transparent */
+    background-color: rgba(204, 189, 189, 0.515); 
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(150, 14, 14, 0.682); /* Adjust the alpha value here for the box shadow transparency */
+    box-shadow: 0 0 10px rgba(150, 14, 14, 0.682); 
     margin-top: 105px;
 }
 
@@ -41,13 +41,13 @@ button {
 
 body {
   font-family: Arial, sans-serif;
-    /* background-color: #f0f0f0; */
+   
 
   background-image: url('mount.webp');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   height: 90vh;
-  margin: 0; /* Remove default margin */
+  margin: 0;
   padding: 0; 
 }
